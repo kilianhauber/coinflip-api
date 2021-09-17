@@ -4,10 +4,14 @@
 
 ## Installation
 
-Install my-project with npm
+#### First install NPM packages:
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install
 ```
-    
+
+#### Now run Dev mode:
+
+```bash
+  npm run dev
+```
